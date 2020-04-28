@@ -1,8 +1,8 @@
 {
-    "name": "Discord Game Server Monitor",
-    "description": "Monitor your game servers on Discord",
-    "repository": "https://github.com/DiscordGSM/DiscordGSM",
-    "logo": "https://github.com/DiscordGSM/DiscordGSM/raw/master/images/discordgsm.png",
+    "name": "Supreme-Elite Server Monitor",
+    "description": "Monitor game servers on Discord",
+    "repository": "https://github.com/Supreme-Elite/DiscordGSM",
+    "logo": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/25/254acdddb7d8534c4715c74fb3b4afcd0997ca31_full.jpg",
     "keywords": ["discordgsm", "query", "gameserver", "gameservers", "monitor", "dgsm", "game-servers", "discord", "gaming", "game"],
     "env": {
         "DGSM_TOKEN": {
